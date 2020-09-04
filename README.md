@@ -1,1 +1,1 @@
-# HYT-SKMT.github.io/dou_and_syoku.html
+# HYT-SKMT.github.io/
