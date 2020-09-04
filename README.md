@@ -1,1 +1,1 @@
-# HYT-SKMT.github.io/
+# HYT-SKMT.github.io
