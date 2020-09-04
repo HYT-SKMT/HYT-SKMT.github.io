@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* animals */
+
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+}
+
+em.syoku {
+    font-size: 200%;
+}
+
+em.genre {
+    font-size: 200%;
+}
